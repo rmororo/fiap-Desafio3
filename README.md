@@ -4,13 +4,7 @@
 
 # 💳 Detecção de Fraudes em Cartões de Crédito - FIAP Challenge 3
 
-[![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/status-concluído-brightgreen)](/)  
-[![Power BI](https://img.shields.io/badge/export-PowerBI-yellow)](/)  
-[![AWS](https://img.shields.io/badge/cloud-AWS-orange)](/)  
-[![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)](https://www.postgresql.org/)  
-[![SMOTE](https://img.shields.io/badge/class%20balance-SMOTE-green)](/)  
+[![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Status](https://img.shields.io/badge/status-concluído-brightgreen)](/)  [![Power BI](https://img.shields.io/badge/export-PowerBI-yellow)](/)  [![AWS](https://img.shields.io/badge/cloud-AWS-orange)](/)  [![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)](https://www.postgresql.org/)  [![SMOTE](https://img.shields.io/badge/class%20balance-SMOTE-green)](/)  
 
 ---
 
