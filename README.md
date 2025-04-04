@@ -104,7 +104,7 @@ Para simular um ambiente de produção:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/anaplmiranda/modelo_fraudes.git
+git clone https://github.com/rmororo/fiap-Desafio3.git
 cd modelo_fraudes
 
 # Crie o ambiente virtual
